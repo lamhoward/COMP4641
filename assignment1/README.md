@@ -2,7 +2,6 @@
 # Assignment 1
 
 * Name: Lam Hon Wa
-* Student ID: 20348745
 * Email: hwlamad@connect.ust.hk
 
 ## Python 3.0
@@ -13,7 +12,6 @@ Please be reminded the code is written in python version 3.0
 * folder
 	- Assignment1_Lam_Hon_Wa.ipynb
 	- matrix.txt
-	- report.pdf
 	- README.md
 
 
